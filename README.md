@@ -17,7 +17,7 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ GitHub account information
 
 [![card](https://github-readme-stats.vercel.app/api?username=jguilhermesl&theme=highcontrast&show_icons=true)](https://github.com/jguilhermesl/)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jguilhermesl&hide=html&layout=compact&theme=highcontrast)](https://github.com/jguilhermesl/)
