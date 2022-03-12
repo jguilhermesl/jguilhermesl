@@ -4,7 +4,7 @@
 
 🔭 Parter of DevClub.
 
-💬 I'm passionate about technology and I'm always looking to learn more.
+💬 I'm passionate about technology and I'm always looking to learn more. In addition to improving technical skills, my professional experience also allowed me to develop personal qualities such as collaborative mindset, good customer relationships, good acceptance of feedback, resilience, critical analysis and problem solving.
 
 ----
 
