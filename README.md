@@ -22,7 +22,7 @@
 
 ---
 
-## ⭐ GitHub account information
+## 👨‍💻 GitHub account information
 
 [![card](https://github-readme-stats.vercel.app/api?username=jguilhermesl&theme=highcontrast&show_icons=true)](https://github.com/jguilhermesl/)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jguilhermesl&hide=html&layout=compact&theme=highcontrast)](https://github.com/jguilhermesl/)
@@ -31,3 +31,6 @@
 
 <a  href="https://www.instagram.com/jgsldev/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 <a  href="https://www.linkedin.com/in/jguilhermesl/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  
+  
+## ⭐ Access my <a href="http://www.jguilhermesl.com.br">portfolio</a>!
