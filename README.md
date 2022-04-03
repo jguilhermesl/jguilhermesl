@@ -6,7 +6,7 @@
 
 💬 I'm passionate about technology and I'm always looking to learn more. In addition to improving technical skills, my professional experience also allowed me to develop personal qualities such as collaborative mindset, good customer relationships, good acceptance of feedback, resilience, critical analysis and problem solving.
 
-## ⭐ Access my <a href="http://www.jguilhermesl.com.br">portfolio</a>!
+## ⭐ Access my <a href="http://www.jguilhermesl.com.br" target="_blank">portfolio</a>!
 ----
 
 ## 🚀 My Skills
