@@ -1,18 +1,12 @@
 ## 💜 Hi, my name is <strong>João Guilherme!</strong>
-* 🖥️  See my portfolio at [JGSL](http://jguilhermesl.com.br)
+* 🖥️  See my portfolio at [My Portfolio](http://jguilhermesl.com.br)
 * ✉️  You can contact me at [joaoguilherme\_pe@hotmail.com](mailto:joaoguilherme_pe@hotmail.com)
 
-<div align="left">
-  <div>
 > I´m Web Developer & Front End Designer.
 
 🔭 Parter of DevClub.
 
 💬 I'm passionate about technology and I'm always looking to learn more. In addition to improving technical skills, my professional experience also allowed me to develop personal qualities such as collaborative mindset, good customer relationships, good acceptance of feedback, resilience, critical analysis and problem solving.
-  </div>
-  
-  <img src="https://img.freepik.com/vetores-gratis/equipe-de-negocios-e-etapas-do-processo-de-trabalho-da-ideia-ao-objetivo-fluxo-de-trabalho-de-negocios-eficiencia-de-processos-de-negocios-conceito-de-padrao-de-atividade-de-trabalho-ilustracao-de-vetor-isolado-de-coral-rosa_335657-1649.jpg?w=2000" width="230px" height="170px" />
-</div>
 
 
 ## 🚀 My Skills
