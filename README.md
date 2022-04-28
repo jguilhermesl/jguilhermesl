@@ -1,11 +1,16 @@
 ## 💜 Hi, my name is <strong>João Guilherme!</strong>
 
+<div display="flex" >
+  <div>
 > I´m Web Developer & Front End Designer.
 
 🔭 Parter of DevClub.
 
 💬 I'm passionate about technology and I'm always looking to learn more. In addition to improving technical skills, my professional experience also allowed me to develop personal qualities such as collaborative mindset, good customer relationships, good acceptance of feedback, resilience, critical analysis and problem solving.
-
+  </div>
+  
+  <img src="https://img.freepik.com/vetores-gratis/equipe-de-negocios-e-etapas-do-processo-de-trabalho-da-ideia-ao-objetivo-fluxo-de-trabalho-de-negocios-eficiencia-de-processos-de-negocios-conceito-de-padrao-de-atividade-de-trabalho-ilustracao-de-vetor-isolado-de-coral-rosa_335657-1649.jpg?w=2000! width="100px" height="100px" />
+</div>
 ## ⭐ Access my <a href="http://www.jguilhermesl.com.br" target="_blank">portfolio</a>!
 
 
@@ -28,8 +33,8 @@
 
 ## 👨‍💻 GitHub account information
 
-[![card](https://github-readme-stats.vercel.app/api?username=jguilhermesl&theme=highcontrast&show_icons=true)](https://github.com/jguilhermesl/)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jguilhermesl&hide=html&layout=compact&theme=highcontrast)](https://github.com/jguilhermesl/)
+<a href="http://www.github.com/jguilhermesl"><img src="https://github-readme-stats.vercel.app/api?username=jguilhermesl&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="jguilhermesl's GitHub stats" /></a>
+<a href="http://www.github.com/jguilhermesl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jguilhermesl&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## 🌎 My social networks
 
