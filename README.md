@@ -2,7 +2,7 @@
 * 🖥️  See my portfolio at [JGSL](http://jguilhermesl.com.br)
 * ✉️  You can contact me at [joaoguilherme\_pe@hotmail.com](mailto:joaoguilherme_pe@hotmail.com)
 
-<div display="flex" >
+<div style="display: flex" >
   <div>
 > I´m Web Developer & Front End Designer.
 
