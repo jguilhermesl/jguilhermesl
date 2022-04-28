@@ -11,7 +11,7 @@
 💬 I'm passionate about technology and I'm always looking to learn more. In addition to improving technical skills, my professional experience also allowed me to develop personal qualities such as collaborative mindset, good customer relationships, good acceptance of feedback, resilience, critical analysis and problem solving.
   </div>
   
-  <img src="https://img.freepik.com/vetores-gratis/equipe-de-negocios-e-etapas-do-processo-de-trabalho-da-ideia-ao-objetivo-fluxo-de-trabalho-de-negocios-eficiencia-de-processos-de-negocios-conceito-de-padrao-de-atividade-de-trabalho-ilustracao-de-vetor-isolado-de-coral-rosa_335657-1649.jpg?w=2000" width="100px" height="100px" />
+  <img src="https://img.freepik.com/vetores-gratis/equipe-de-negocios-e-etapas-do-processo-de-trabalho-da-ideia-ao-objetivo-fluxo-de-trabalho-de-negocios-eficiencia-de-processos-de-negocios-conceito-de-padrao-de-atividade-de-trabalho-ilustracao-de-vetor-isolado-de-coral-rosa_335657-1649.jpg?w=2000" width="230px" height="170px" />
 </div>
 
 
