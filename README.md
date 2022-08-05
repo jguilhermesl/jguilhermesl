@@ -12,7 +12,7 @@
 ## 🚀 Minhas Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,typescript,nextjs,nodejs,firebase,sass,styledcomponents,tailwindcss" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,typescript,nextjs,nodejs,firebase,sass,styledcomponents,tailwindcss,postgresql,prisma" />
 </p>
 
 ---
