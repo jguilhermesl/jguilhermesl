@@ -2,11 +2,11 @@
 * 🖥️  Veja meu portfólio [My Portfolio](http://jguilhermesl.com.br)
 * ✉️  Me mande um email [joaoguilherme\_pe@hotmail.com](mailto:joaoguilherme_pe@hotmail.com)
 
-> Sou um desenvolvedor Front End com conhecimentos em tecnologias Back End.
+> Sou um desenvolvedor Full Stack.
 
 🔭 Sócio do DevClub.
-
-💬 Sou um jovem apaixonado por tecnologia, sempre em busca de mais conhecimentos e mais tecnologias para melhor performance e aperfeiçoamento nos desenvolvimentos dos meus projetos. .
+💼 Full Stack na Amplifi Labs.
+💬 Sou um jovem apaixonado por tecnologia, sempre em busca de mais conhecimentos e mais tecnologias para melhor performance e aperfeiçoamento nos desenvolvimentos dos meus projetos.
 
 
 ## 🚀 Minhas Skills
