@@ -5,7 +5,9 @@
 > Sou um desenvolvedor Full Stack.
 
 🔭 Sócio do DevClub.
+
 💼 Full Stack na Amplifi Labs.
+
 💬 Sou um jovem apaixonado por tecnologia, sempre em busca de mais conhecimentos e mais tecnologias para melhor performance e aperfeiçoamento nos desenvolvimentos dos meus projetos.
 
 
